@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js Redux, Router**
 
-- 👨‍💻 Here you can see my latest completed project [https://panshamray.github.io/react-weather-map/https://panshamray.github.io/react-weather-map/](https://panshamray.github.io/react-weather-map/https://panshamray.github.io/react-weather-map/)
+- 👨‍💻 Here you can see my latest completed project [https://panshamray.github.io/react-weather-map/](https://panshamray.github.io/react-weather-map/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
