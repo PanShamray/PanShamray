@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 everyone, i'm Vladislav Shamrai</h1>
+<h1 align="center">Hi 👋 everyone, i'm Vladislav Shamray</h1>
 <h3 align="center">A frontend developer from Dnipro(Ukraine)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panshamray&label=Profile%20views&color=0e75b6&style=flat" alt="panshamray" /> </p>
